@@ -4,13 +4,23 @@ Setup with Vite, React, Typescript, Vitest and browser testing.
 
 NB. this repo use the old `Eslint 8`, as provided by the`vite template`.
 
+Run the UI test via:
+> npm install
+
+> npm run test:browser
+
 ## pre-requisites
 
 > npm install react-hook-form
+
 > npm install yup
+
 > npm install @hookform/resolvers
+
 > npm install -D tailwindcss postcss autoprefixer
+
 > npx tailwindcss init -p
+
 > setup tailwind configuration files from <https://tailwindcss.com/docs/guides/vite>
 
 ## setup
